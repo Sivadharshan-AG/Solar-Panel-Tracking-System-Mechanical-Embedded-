@@ -1,0 +1,37 @@
+echo "# Solar-Panel-Tracking-System-Mechanical-Embedded-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sivadharshan-AG/Solar-Panel-Tracking-System-Mechanical-Embedded-.git
+git push -u origin main
+# 🌞 Solar Panel Tracking System (Mechanical + Embedded)
+
+## 📌 Description
+A zero-power solar panel tracking system using a gear-driven mechanism to follow the sun’s movement throughout the day. Includes a manual key-based reset for alignment, ensuring efficient energy capture even during cloudy conditions with no external power required.
+
+## ⚙️ Features
+- Zero-power gear-driven operation  
+- Tracks sun movement reliably  
+- Manual key reset for alignment  
+- Sustainable and low-maintenance  
+
+## 🔩 Components
+- Gear system  
+- Shaft & bearings  
+- Solar panel mount  
+- Manual reset key  
+- Supporting frame  
+
+## 📐 Workflow
+1. Panel starts facing east.  
+2. Gear system rotates panel following sun.  
+3. Works even during cloudy conditions.  
+4. Manual key resets alignment for next sunrise.  
+
+## 🚀 Benefits
+- Improves energy capture efficiency  
+- No electrical power required  
+- Eco-friendly and cost-effective  
+
+## 📂 Repository Structure
